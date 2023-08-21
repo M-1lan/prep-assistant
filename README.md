@@ -1,2 +1,2 @@
-# prep-assistant
+# Prép'Assistant
 KaTeX writing assistant on Notion
